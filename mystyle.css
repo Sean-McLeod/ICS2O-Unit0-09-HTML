@@ -1,0 +1,15 @@
+table, th, td {
+  border-style: solid;
+}
+#myimg {
+  border: 15px solid orange;
+  padding:10px;
+}
+#myparagraph {
+  background-color: lightblue;
+  width: 300px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+  color:blue;
+}
